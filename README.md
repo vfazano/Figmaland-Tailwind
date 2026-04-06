@@ -2,6 +2,9 @@
 
 Este projeto foi desenvolvido com **React** e **Tailwind CSS**, com base no curso do canal Código Ao Ponto no YouTube.
 
+
+
+
 ## 📚 Sobre o projeto
 
 O objetivo deste projeto foi colocar em prática conceitos modernos de desenvolvimento front-end, utilizando uma abordagem prática com Tailwind CSS para estilização.
